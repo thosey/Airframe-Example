@@ -1,12 +1,10 @@
-/*
- * File : timesthree.c
+/* File : timesthree.c
  * Abstract:
  *       An example C-file S-function for multiplying an input by 3,
  *       y  = 3*u
  *
  *
- * Copyright 1990-2011 The MathWorks, Inc.
- */
+ * Copyright 1990-2011 The MathWorks, Inc.*/
 
 
 #define S_FUNCTION_NAME  timesthree
