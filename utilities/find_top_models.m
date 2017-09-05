@@ -33,7 +33,6 @@ topModelsWithChildren = sg.Nodes.Name(topModelsWithChildrenIndex);
 
 end
 
-
 function isModel = isModelFile(filename)
 % Determine if the supplied file is a Simulink file by looking at its 
 % file extension
